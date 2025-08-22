@@ -49,6 +49,21 @@ if __name__ == "__main__":
 
     #Power
     print(power(2, 2))
+    print(power(2, 3))
+
+    #Square root
+    print(square_root(25))
+    print(square_root(0))
+    print(square_root(20))
+
+    #Average
+    list1 = [10, 10, 10]
+    # list2 = ["hola", "adios", "tt"]
+    list3 = [-10, 10, 20, 20]
+    print(average(list1))
+    # print(average(list2))
+    print(average(list3))
+    
 
     print("end test")
 
