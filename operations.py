@@ -63,6 +63,12 @@ if __name__ == "__main__":
     print(average(list1))
     # print(average(list2))
     print(average(list3))
+
+    #Maximum
+    list4 = [2, 0, 9]
+    list5 = [1, 2, 3]
+    print(maximum(list4))
+    print(maximum(list5))
     
 
     print("end test")
